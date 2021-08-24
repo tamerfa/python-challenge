@@ -56,8 +56,3 @@ with open (analysis,'w') as text:
     text.write(f"Average Change: ${change_average}\n")
     text.write(f"Greatest Increase in Profits: {max_inc_month} (${max_inc})\n")
     text.write(f"Greatest Decrease in Profits: {max_dec_month} (${max_dec})\n")
-
-    
-
-    
-
